@@ -1,0 +1,25 @@
+{
+  "name": "presentation",
+  "description": "Simple presentation of Freifunk",
+  "main": "index.html",
+  "authors": [
+    "mail@enricomeinel.de"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "freifunk",
+    "vogtland"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "video.js": "^5.12.6"
+  }
+}
